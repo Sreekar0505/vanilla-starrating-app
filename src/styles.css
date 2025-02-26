@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.resetButton {
+  cursor: pointer;
+}
+
+.starContainer {
+  cursor: pointer;
+}
+
+.selected {
+  color: orange;
+}
